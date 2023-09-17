@@ -21,3 +21,10 @@ Documentation only changes
 Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
 
 `:art: style: xxxxxxxx`
+
+# refactor
+
+A code change that neither fixes a bug nor adds a feature
+
+`:recycle: refactor: xxxxxxxx`
+
