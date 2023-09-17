@@ -32,5 +32,10 @@ A code change that neither fixes a bug nor adds a feature
 
 A code change that improves performance
 
-`:zap: perf: improve performance`
+`:zap: perf: xxxxxxxx`
 
+# going
+
+work on progress (have partial done the task)
+
+`:construction: going: xxxxxxxx`
