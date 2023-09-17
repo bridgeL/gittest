@@ -14,7 +14,7 @@ A bug fix
 
 Documentation only changes
 
-`:doc: docs: xxxxxxxx`
+`:memo: docs: xxxxxxxx`
 
 # style
 
@@ -27,4 +27,10 @@ Changes that do not affect the meaning of the code (white-space, formatting, mis
 A code change that neither fixes a bug nor adds a feature
 
 `:recycle: refactor: xxxxxxxx`
+
+# performance 
+
+A code change that improves performance
+
+`:zap: perf: improve performance`
 
