@@ -10,3 +10,9 @@ A bug fix
 
 `:bug: fix: xxxxxxxx`
 
+# docs
+
+Documentation only changes
+
+`:doc: docs: xxxxxxxx`
+
